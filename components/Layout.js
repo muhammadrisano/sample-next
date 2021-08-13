@@ -8,6 +8,9 @@ const Layout = (props) => {
   useEffect(() => {
     console.log(router);
   // eslint-disable-next-line react-hooks/exhaustive-deps
+  // helo
+  // wordl
+  // testing
   }, [])
   return (
     <div>
